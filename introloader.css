@@ -1,7 +1,3 @@
- <style>
-    /*----------------------------------------
-    Pre Loader
-------------------------------------------*/
 
     #loader-wrapper {
       position: fixed;
@@ -202,4 +198,3 @@
     .side-nav .collapsible-body li a {
       margin: 0 1rem 0 3rem;
     }
-  </style>
